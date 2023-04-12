@@ -7,4 +7,5 @@ def triangle(a, b, c):
         return 1 
     elif a == b and b == c: 
         return 2 
-    else: return 4 
+    else: 
+        return 4 
